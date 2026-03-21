@@ -27,12 +27,8 @@ The dashboard transforms raw academic data into meaningful insights by providing
 
 ---
 
-##  Project Screenshots
-
-![Dashboard](images/dashboard.png)
-![Results View](images/results.png)
-
-*(Update image paths based on your folder structure)*
+##  Project Demo
+👉 https://youtu.be/eOLYoI6nSIM
 
 ---
 
